@@ -1,0 +1,68 @@
+Topics (Selenium with Python)
+=======================
+1. Python installation, selenium installation, pycharm
+2. Run the test on different browser
+3. Webdriver basic commands
+4. Webdriver Navigational commands
+		http://newtours.demoaut.com
+		http://demo.automationtesting.in/Windows.html
+5. Webdriver Conditional Commands
+		http://newtours.demoaut.com
+6. Webdriver Wait Commands
+	implicit wait
+		http://newtours.demoaut.com
+	explicit wait
+		https://www.expedia.com/
+7. Working with Inputboxes
+	Total No of input boxes
+	Enter values to inputbox
+	Get the status of inputbox
+		http://newtours.demoaut.com
+8. Working with Checkboxes and Radioboxes
+	Check if radio/check box is selected or not
+	Select the radio or check box
+		http://newtours.demoaut.com
+9. Working with dropdown
+	Select one option
+	Count, and print all the options
+		https://fs2.formsite.com/meherpavan/form2/index.html?1537702596407
+10. Working with links
+	Count and print all the links
+	Click on link
+		http://newtours.demoaut.com
+11. Working with Alerts
+		https://testautomationpractice.blogspot.com/
+12. Working with frames
+	switch between windows
+		https://seleniumhq.github.io/selenium/docs/api/java/index.html
+13. Working with Browser Windows
+	Current window handle
+	Window handles
+		http://demo.automationtesting.in/Windows.html
+14. Working with WebTables
+		file:///E:/Subash/Python/SeleniumAutomation/Resources/Webtable.html
+15. Srolling on WebPage
+	Scroll down the page by pixel
+		"window.scrollBy(0, 1000)", ""
+	Scroll till element is found
+		"arguments[0].scrollIntoView();",<web element>
+	Scroll down till end of page
+		"window.scrollBy(0, document.body.scrollHeight)"
+16. Mouse Actions
+	Mouse Hover (move_to_element)
+		https://opensource-demo.orangehrmlive.com/
+	Double Click (double_click)
+		file:///E:/Subash/Python/SeleniumAutomation/Resources/Webtable.html
+	Right Click (content_click)
+		https://swisnl.github.io/jQuery-contextMenu/demo.html
+	Drag and Drop (drag_and_drop)
+		http://dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html
+17. Upload file
+		https://fs2.formsite.com/meherpavan/form2/index.html?1537702596407
+18. Download file (using Chrome and firefox)
+		http://demo.automationtesting.in/FileDownload.html
+20. Data Driven Testing Using Excel
+	Reading data from Excel file
+	Writing data to Excel file
+	Data driven testing
+21. 
