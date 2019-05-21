@@ -66,4 +66,12 @@ Topics (Selenium with Python)
 	Reading data from Excel file
 	Writing data to Excel file
 	Data driven testing
-21. 
+21. Handling Cookies
+	Get all Cookies
+	Add Cookie
+	Delete the Cookie and Cookies
+		https://www.amazon.in
+22. Take Screenshots
+	save_screenshot('filename')
+	get_screenshot_as_file('filename')
+		http://newtours.demoaut.com

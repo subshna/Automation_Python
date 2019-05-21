@@ -26,5 +26,10 @@ allCookies = driver.get_cookies()
 print (len(allCookies))
 print (allCookies)
 
+# Delete all the Cookies
+driver.delete_all_cookies()
+allCookies = driver.get_cookies()
+print (len(allCookies))
+
 driver.close()
 driver.quit()
