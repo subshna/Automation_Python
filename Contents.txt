@@ -75,3 +75,5 @@ Topics (Selenium with Python)
 	save_screenshot('filename')
 	get_screenshot_as_file('filename')
 		http://newtours.demoaut.com
+23. Logging & Log Levels
+	Log Levels - DEBUG, INFO, WARNING, ERROR, CRITICAL
