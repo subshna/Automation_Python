@@ -15,6 +15,7 @@ Topics (Selenium with Python)
 		https://www.expedia.com/
 7. Working with Inputboxes
 	Total No of input boxes
+		https://fs2.formsite.com/meherpavan/form2/index.html?1537702596407
 	Enter values to inputbox
 	Get the status of inputbox
 		http://newtours.demoaut.com
