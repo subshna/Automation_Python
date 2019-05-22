@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06182a31-9c60-41a1-835d-7bada502927a" name="Default" comment="New Test casess added">
-      <change afterPath="$PROJECT_DIR$/TestCases/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/logging_msg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/logging_msg2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTest_framework/TestSuite1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTest_framework/TestSuite2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTest_framework/TestSuite3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTest_framework/TestSuite4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Contents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Contents.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/logging.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,45 +21,39 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestCases/data_driven_testing.py">
+        <entry file="file://$PROJECT_DIR$/UnitTest_framework/TestSuite1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="175">
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnitTest_framework/TestSuite3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TestCases/handle_cookies.py">
+        <entry file="file://$PROJECT_DIR$/UnitTest_framework/TestSuite4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-              <folding>
-                <element signature="e#1#31#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="125">
+              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestCases/logging.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestCases/take_screenshots.py">
+        <entry file="file://$PROJECT_DIR$/UnitTest_framework/TestSuite2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -107,8 +107,15 @@
         <option value="$PROJECT_DIR$/modules/xlUtils.py" />
         <option value="$PROJECT_DIR$/TestCases/data_driven_testing.py" />
         <option value="$PROJECT_DIR$/TestCases/take_screenshots.py" />
-        <option value="$PROJECT_DIR$/TestCases/logging.py" />
         <option value="$PROJECT_DIR$/TestCases/handle_cookies.py" />
+        <option value="$PROJECT_DIR$/TestCases/logging.py" />
+        <option value="$PROJECT_DIR$/TestCases/logging_msg.py" />
+        <option value="$PROJECT_DIR$/TestCases/logging_msg2.py" />
+        <option value="$PROJECT_DIR$/Pytest_framework.py" />
+        <option value="$PROJECT_DIR$/UnitTest_framework/TestSuite1.py" />
+        <option value="$PROJECT_DIR$/UnitTest_framework/TestSuite2.py" />
+        <option value="$PROJECT_DIR$/UnitTest_framework/TestSuite3.py" />
+        <option value="$PROJECT_DIR$/UnitTest_framework/TestSuite4.py" />
       </list>
     </option>
   </component>
@@ -135,7 +142,12 @@
             <path>
               <item name="SeleniumAutomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="TestCases" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="UnitTest_framework" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,7 +158,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -160,126 +172,91 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.logging">
-    <configuration name="data_driven_testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests for TestSuite4.AppTesting">
+    <configuration name="Unittests for TestSuite2.SearchEnginesTest.test_bing" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SeleniumAutomation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UnitTest_framework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCases/data_driven_testing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestSuite2.SearchEnginesTest.test_bing&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="handle_cookies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for TestSuite2.SearchEnginesTest.test_google" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SeleniumAutomation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UnitTest_framework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCases/handle_cookies.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestSuite2.SearchEnginesTest.test_google&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="logging" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for TestSuite3.AppTesting" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SeleniumAutomation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UnitTest_framework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCases/logging.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestSuite3.AppTesting&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="take_screenshots" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for TestSuite4.AppTesting" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SeleniumAutomation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UnitTest_framework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCases/take_screenshots.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestSuite4.AppTesting&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="write.excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in TestSuite2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SeleniumAutomation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UnitTest_framework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCases/write.excel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/UnitTest_framework/TestSuite2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.write.excel" />
-      <item itemvalue="Python.data_driven_testing" />
-      <item itemvalue="Python.handle_cookies" />
-      <item itemvalue="Python.take_screenshots" />
-      <item itemvalue="Python.logging" />
+      <item itemvalue="Python tests.Unittests for TestSuite2.SearchEnginesTest.test_bing" />
+      <item itemvalue="Python tests.Unittests in TestSuite2.py" />
+      <item itemvalue="Python tests.Unittests for TestSuite2.SearchEnginesTest.test_google" />
+      <item itemvalue="Python tests.Unittests for TestSuite3.AppTesting" />
+      <item itemvalue="Python tests.Unittests for TestSuite4.AppTesting" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.logging" />
-        <item itemvalue="Python.take_screenshots" />
-        <item itemvalue="Python.handle_cookies" />
-        <item itemvalue="Python.data_driven_testing" />
-        <item itemvalue="Python.write.excel" />
+        <item itemvalue="Python tests.Unittests for TestSuite4.AppTesting" />
+        <item itemvalue="Python tests.Unittests for TestSuite3.AppTesting" />
+        <item itemvalue="Python tests.Unittests for TestSuite2.SearchEnginesTest.test_google" />
+        <item itemvalue="Python tests.Unittests in TestSuite2.py" />
+        <item itemvalue="Python tests.Unittests for TestSuite2.SearchEnginesTest.test_bing" />
       </list>
     </recent_temporary>
   </component>
@@ -308,26 +285,64 @@
       <option name="project" value="LOCAL" />
       <updated>1558431387323</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New Test casess added">
+      <created>1558432649105</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558432649105</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_TestSuite2_SearchEnginesTest_test_bing - 2019.05.21 at 17h 04m 01s.xml">
+      <configuration name="Unittests for TestSuite2.SearchEnginesTest.test_bing" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestSuite2_py - 2019.05.21 at 17h 05m 12s.xml">
+      <configuration name="Unittests in TestSuite2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestSuite2_SearchEnginesTest_test_google - 2019.05.21 at 17h 06m 46s.xml">
+      <configuration name="Unittests for TestSuite2.SearchEnginesTest.test_google" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestSuite3_AppTesting - 2019.05.21 at 17h 18m 25s.xml">
+      <configuration name="Unittests for TestSuite3.AppTesting" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestSuite3_AppTesting - 2019.05.21 at 17h 19m 40s.xml">
+      <configuration name="Unittests for TestSuite3.AppTesting" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestSuite3_AppTesting - 2019.05.21 at 17h 20m 26s.xml">
+      <configuration name="Unittests for TestSuite3.AppTesting" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestSuite3_AppTesting - 2019.05.21 at 17h 20m 47s.xml">
+      <configuration name="Unittests for TestSuite3.AppTesting" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestSuite3_AppTesting - 2019.05.21 at 17h 21m 17s.xml">
+      <configuration name="Unittests for TestSuite3.AppTesting" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestSuite4_AppTesting - 2019.05.21 at 17h 26m 18s.xml">
+      <configuration name="Unittests for TestSuite4.AppTesting" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestSuite4_AppTesting - 2019.05.21 at 17h 26m 39s.xml">
+      <configuration name="Unittests for TestSuite4.AppTesting" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22991072" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22991072" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" visible="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -575,10 +590,30 @@
     <entry file="file://$PROJECT_DIR$/CaptureScreen/homepage.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/take_screenshots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TestCases/logging.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/handle_cookies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="e#1#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -592,23 +627,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestCases/take_screenshots.py">
+    <entry file="file://$PROJECT_DIR$/TestCases/logging_msg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pytest_framework.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/logging_msg2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTest_framework/TestSuite2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestCases/handle_cookies.py">
+    <entry file="file://$PROJECT_DIR$/UnitTest_framework/TestSuite1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding>
-            <element signature="e#1#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="175">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTest_framework/TestSuite3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTest_framework/TestSuite4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>

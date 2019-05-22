@@ -77,3 +77,9 @@ Topics (Selenium with Python)
 		http://newtours.demoaut.com
 23. Logging & Log Levels
 	Log Levels - DEBUG, INFO, WARNING, ERROR, CRITICAL
+24. UnitTest Framework
+	1. Create Test Case
+	2. Create multiple Test Case
+	3. setup and teardown
+	4. setupClass and teardownClass
+	5. setupModule and teardownModule
