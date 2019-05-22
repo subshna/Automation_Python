@@ -1,0 +1,59 @@
+pytest:
+Basis for rich ecosystem of testing plugins and extensions.
+Not Unittest
+
+To Run the Unit Test cases 
+====================
+pytest (plz run the command from the pytest case folder)
+
+To Run the Test in verbose mode
+=========================
+pytest <test file name> -v or pytest -v <test file name>
+
+To Run Specific Test case
+====================
+pytest <test file name>::<test case name> -v
+
+To Run then test case with match case
+=============================
+pytest -v -k "<String that we need to run eg: "add">"
+pytest -v -k "add or string"
+
+To Run the test case with mark
+=======================
+import pytest and add the decorators
+@pytest.mark.number
+pytest -v -m number
+
+Exit the Script if the Assert Fail (first failure)
+================================
+pytest -v -x
+
+If the failure track trace is not required
+=============================
+pytest -v -x --tb=no
+
+To Run the Test case with Maximum failure
+================================
+pytest -v --maxfail=<any number other than zero>
+
+To Skip particular test cases
+======================
+import pytest
+add decorators @pytest.mark.skip(reason="Message for skipping")
+pytest -v -rsx
+
+To Skip Test case based on Condition
+==============================
+@pytest.mark.skipif(sys.version_info > (2, 0), reason="Skip if Python version is greater than 2.0)
+
+To Print the o/p using print function
+==========================
+Include print statement in the script
+pytest -v -s
+pytest -v --capture=no
+
+To Run the Script in Quite mode
+========================
+pytest -v -q (No information is printed)
+pytest -q (displays on test pass and fail)

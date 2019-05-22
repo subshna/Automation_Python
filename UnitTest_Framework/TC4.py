@@ -1,5 +1,11 @@
 import unittest
 
+def setUpModule():
+    print ('Setup Module')
+
+def tearDownModule():
+    print ('Teardown Module')
+
 class AppTesting(unittest.TestCase):
 
     @classmethod
@@ -11,11 +17,11 @@ class AppTesting(unittest.TestCase):
         print ('Logout Test')
 
     @classmethod
-    def setUpClass(self):
+    def setUpClass(cls):
         print ('Open the Application')
 
     @classmethod
-    def tearDownClass(self):
+    def tearDownClass(cls):
         print ('Close the Application')
 
     def test_search(self):

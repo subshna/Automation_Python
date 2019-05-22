@@ -77,9 +77,37 @@ Topics (Selenium with Python)
 		http://newtours.demoaut.com
 23. Logging & Log Levels
 	Log Levels - DEBUG, INFO, WARNING, ERROR, CRITICAL
-24. UnitTest Framework
-	1. Create Test Case
-	2. Create multiple Test Case
-	3. setup and teardown
-	4. setupClass and teardownClass
-	5. setupModule and teardownModule
+24. UnitTest Framework - Create TestCases
+	Create Test Case
+	Create multiple Test Case
+25. UnitTest Framework - setup, teardown decorators
+	setup and teardown
+	setupClass and teardownClass
+	setupModule and teardownModule
+26. UnitTest Framework - Skipping tests
+	Skip test
+	Skip test with reason
+	Skip test with based on condition
+27. UnitTest Framework - Assertions
+	assertEqual - Pass if both parameter matches, else fails TC
+	assertNotEqual - Pass if both parameter are not same, else passed TC
+	assertTrue - checks if given parameters is true or false (more than two parameter), if true pass else fail
+	assertFalse - if false pass else fail
+	assertIsNone - Pass whether given value is None or Not. If None pass else fail
+	assertIsNotNone - If is not None Pass esle fail
+	assertIn - Verifies first element is present in second, then pass else fail - used in list, tuple, dict
+	assertNotIn - Verifies first element is not present in second, then pass else fail
+28. UnitTest Framework - Relational Comparison
+	assertGreater - verifies first value is greater than second
+	assertGreaterEqual - verifies first value is greater than equal to second
+	assertLess - verifies first value is lesser than second
+	assertLessEqual-verifies first value is lesser than equal to second
+29. UnitTest Framework - Batch Testing
+	Managing Test Case and TestSuite
+30. Pytest Framework
+	Installation of Pytest framework
+	Create and execute Test in Pytest
+31. Pytest fixtures
+	-fixtures is to provide a fixed baseline upon which test can reliable and repeatedly execute
+	pytest.fixtures()
+	pytest.yeild.fixtures()
