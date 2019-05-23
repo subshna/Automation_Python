@@ -111,3 +111,11 @@ Topics (Selenium with Python)
 	-fixtures is to provide a fixed baseline upon which test can reliable and repeatedly execute
 	pytest.fixtures()
 	pytest.yeild.fixtures()
+32. Pytest - Multiple Ways to Run TC's
+	pytest -v -s
+	pytest -v -s <path of package>
+	pytest -v -s <module name>::<test cases name>
+33. Python Unittest HTML TestRunner Reports
+	Unit Test with HTML Report
+34. Unit Test, POM(Page Object Model) and HTML Reports
+	Small Project using POM
