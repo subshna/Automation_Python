@@ -117,5 +117,25 @@ Topics (Selenium with Python)
 	pytest -v -s <module name>::<test cases name>
 33. Python Unittest HTML TestRunner Reports
 	Unit Test with HTML Report
-34. Unit Test, POM(Page Object Model) and HTML Reports
+34. Pytest HTML Report
+	install pytest-html
+	pytest-html
+	pytest -v -s <test case name>
+	pytest -v -s --html=report.html <test case name>
+	pytest -v -s  --html=report.html --self-contained-html <test case name>
+	pytest -v -s 
+35. Unit Test, POM(Page Object Model) and HTML Reports
 	Small Project using POM
+36. Connect to database using Python
+	Structured Query Language
+		-DDL (Data Definition Language) - create, alter, drop
+		-DML (Data Manipuliation Language) - Insert, Update, delete
+		-DRL (Data Reterival Language) - Select
+		-DCL (Data Control Language) - grant, revoke (Administration Commands)
+		-TCL (Transaction Control Language) - commit, savepoint, etc (Administration Commands)
+	Client & Server
+		Two types of Client - CLI and GUI based
+	Connect to database
+	Execute Queries(insert, update, delete)
+	Select data from database
+	data-driven testing

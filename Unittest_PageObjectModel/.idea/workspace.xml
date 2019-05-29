@@ -2,21 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da4837e9-8c84-4df3-980d-6bdbfee1f548" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Pytest_framework/Package1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pytest_framework/Package1/test_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pytest_framework/Package1/test_signup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTest_Framework/test_Orange_Login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Unittest_PageObjectModel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pageObjects/LoginPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCases/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pytest_framework/testcases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pytest_framework/testcases/test_orange_hrm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageObjects/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Contents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Contents.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Pytest_framework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pytest_framework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results_Log/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UnitTest_Framework/.idea/UnitTest_framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTest_Framework/.idea/UnitTest_framework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pytest_framework/Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pytest_framework/testcases/Login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pytest_framework/Sample_Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pytest_framework/testcases/Sample_Selenium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pytest_framework/Student_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pytest_framework/testcases/Student_Data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pytest_framework/mathLib.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pytest_framework/testcases/mathLib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pytest_framework/test_Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pytest_framework/testcases/test_Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pytest_framework/test_Calculator_Parametrize.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pytest_framework/testcases/test_Calculator_Parametrize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pytest_framework/test_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pytest_framework/testcases/test_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pytest_framework/test_pytestdemo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pytest_framework/testcases/test_pytestdemo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pytest_framework/test_pytestdemo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pytest_framework/testcases/test_pytestdemo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pytest_framework/test_student_result.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pytest_framework/testcases/test_student_result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pytest_framework/test_student_result_fixtures.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pytest_framework/testcases/test_student_result_fixtures.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../UnitTest_Framework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTest_Framework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Unittest_PageObjectModel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Unittest_PageObjectModel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageObjects/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObjects/LoginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_login.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,12 +31,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pageObjects/LoginPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="125">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -38,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testCases/test_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="800">
+              <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -62,8 +68,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pageObjects/LoginPage.py" />
+        <option value="$PROJECT_DIR$/pageObjects/__init__.py" />
         <option value="$PROJECT_DIR$/testCases/test_login.py" />
+        <option value="$PROJECT_DIR$/pageObjects/LoginPage.py" />
+        <option value="$PROJECT_DIR$/pageObjects/test_call.py" />
+        <option value="$PROJECT_DIR$/testCases/testfile.py" />
+        <option value="$PROJECT_DIR$/testCases/myscript.py" />
+        <option value="$PROJECT_DIR$/testCases/call_function.py" />
+        <option value="$PROJECT_DIR$/testCases/database_testcase.py" />
       </list>
     </option>
   </component>
@@ -87,6 +99,16 @@
               <item name="Unittest_PageObjectModel" type="b2602c69:ProjectViewProjectNode" />
               <item name="Unittest_PageObjectModel" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Unittest_PageObjectModel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Unittest_PageObjectModel" type="462c0819:PsiDirectoryNode" />
+              <item name="pageObjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Unittest_PageObjectModel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Unittest_PageObjectModel" type="462c0819:PsiDirectoryNode" />
+              <item name="testCases" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -96,7 +118,13 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pytest_framework" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Subash\Python\SeleniumAutomation\Unittest_PageObjectModel\testCases" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,6 +137,115 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Python.database_testcase">
+    <configuration name="call_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Unittest_PageObjectModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCases/call_function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="database_testcase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Unittest_PageObjectModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCases/database_testcase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_call" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Unittest_PageObjectModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pageObjects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\Subash\Python\SeleniumAutomation\Unittest_PageObjectModel\testCases\test_call.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testfile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Unittest_PageObjectModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCases/testfile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Unittest_PageObjectModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testCases/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.database_testcase" />
+        <item itemvalue="Python.call_function" />
+        <item itemvalue="Python.testfile" />
+        <item itemvalue="Python.test_call" />
+        <item itemvalue="Python tests.Unittests in test_login.py" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -123,41 +260,66 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_login_py - 2019.05.24 at 10h 32m 03s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2019.05.24 at 10h 35m 40s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2019.05.24 at 10h 39m 55s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19270833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32993197" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32993197" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pageObjects/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCases/test_call.py" />
+    <entry file="file://$PROJECT_DIR$/testCases/testfile.py" />
+    <entry file="file://$PROJECT_DIR$/testCases/myscript.py" />
+    <entry file="file://$PROJECT_DIR$/testCases/call_function.py" />
+    <entry file="file://$PROJECT_DIR$/testCases/database_testcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pageObjects/LoginPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="125">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testCases/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="800">
+          <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

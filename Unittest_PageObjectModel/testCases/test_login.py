@@ -1,11 +1,8 @@
 import unittest
 from pyunitreport import HTMLTestRunner
 from selenium import webdriver
-import sys
 import time
-sys.path.append('E:/Subash/Python/SeleniumAutomation/Unittest_PageObjectModel')
-
-from pageObjects import LoginPage
+from pageObjects.LoginPage import LoginPage
 
 class LoginTest(unittest.TestCase):
     baseUrl = 'http://admin-demo.nopcommerce.com'
@@ -24,3 +21,13 @@ class LoginTest(unittest.TestCase):
         lp.setPassword(self.password)
         lp.clickLogin()
         time.sleep(5)
+
+        self.assertEqual('Dashboard / nopCommerce administration', self.driver.title,
+                         'webpage title not matched')
+
+    @classmethod
+    def tearDownClass(cls):
+        cls.driver.close()
+
+if __name__ == '__main__':
+    unittest.main(testRunner=HTMLTestRunner(output='../reports'))

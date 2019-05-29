@@ -2,10 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b74421b6-1f26-4477-a100-7683ee32b595" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Package1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Package1/test_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Package1/test_signup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/test_orange_hrm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unittest_PageObjectModel/pageObjects/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Contents.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/Login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sample_Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/Sample_Selenium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/Student_Data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathLib.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/mathLib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Calculator_Parametrize.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_Calculator_Parametrize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytestdemo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_pytestdemo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytestdemo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_pytestdemo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_student_result.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_student_result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_student_result_fixtures.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_student_result_fixtures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTest_Framework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTest_Framework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unittest_PageObjectModel/.idea/Unittest_PageObjectModel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unittest_PageObjectModel/.idea/Unittest_PageObjectModel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unittest_PageObjectModel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unittest_PageObjectModel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unittest_PageObjectModel/pageObjects/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Unittest_PageObjectModel/pageObjects/LoginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unittest_PageObjectModel/testCases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Unittest_PageObjectModel/testCases/test_login.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,47 +32,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_pytestdemo1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_pytestdemo2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Package1/test_login.py">
+        <entry file="file://$PROJECT_DIR$/testcases/test_orange_hrm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Package1/test_signup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            <state relative-caret-position="575">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,6 +65,11 @@
         <option value="$PROJECT_DIR$/test_pytestdemo3.py" />
         <option value="$PROJECT_DIR$/Package1/test_signup.py" />
         <option value="$PROJECT_DIR$/Package1/test_login.py" />
+        <option value="$PROJECT_DIR$/Package1/test_orange_hrm.py" />
+        <option value="$PROJECT_DIR$/test_orange_hrm.py" />
+        <option value="$PROJECT_DIR$/testcases/test_pytestdemo2.py" />
+        <option value="$PROJECT_DIR$/test_OrangeHRM.py" />
+        <option value="$PROJECT_DIR$/testcases/test_orange_hrm.py" />
       </list>
     </option>
   </component>
@@ -107,7 +96,7 @@
             <path>
               <item name="Pytest_framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pytest_framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Package1" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -118,8 +107,14 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UnitTest_Framework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SeleniumPython_Automation" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Subash\Python\SeleniumAutomation\Pytest_framework\testcases" />
+      <recent name="E:\Subash\Python\SeleniumAutomation\Pytest_framework" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,8 +128,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="pytest in test_pytestdemo1.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest in test_orange_hrm.py">
+    <configuration name="pytest for testcases.test_orange_hrm.TestOrangeHRMApp.test_homePage" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Pytest_framework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,13 +140,77 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_pytestdemo1.py&quot;" />
+      <option name="_new_target" value="&quot;testcases.test_orange_hrm.TestOrangeHRMApp.test_homePage&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for testcases.test_orange_hrm.TestOrangeHRMApp.test_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Pytest_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Package1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcases.test_orange_hrm.TestOrangeHRMApp.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_OrangeHRM.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Pytest_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_OrangeHRM.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_orange_hrm.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Pytest_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_orange_hrm.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_pytestdemo2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Pytest_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_pytestdemo2.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_pytestdemo1.py" />
+        <item itemvalue="Python tests.pytest in test_orange_hrm.py" />
+        <item itemvalue="Python tests.pytest in test_OrangeHRM.py" />
+        <item itemvalue="Python tests.pytest in test_pytestdemo2.py" />
+        <item itemvalue="Python tests.pytest for testcases.test_orange_hrm.TestOrangeHRMApp.test_homePage" />
+        <item itemvalue="Python tests.pytest for testcases.test_orange_hrm.TestOrangeHRMApp.test_login" />
       </list>
     </recent_temporary>
   </component>
@@ -169,12 +228,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_pytestdemo1_py - 2019.05.22 at 17h 09m 28s.xml">
-      <configuration name="pytest in test_pytestdemo1.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_orange_hrm_py - 2019.05.27 at 16h 42m 31s.xml">
+      <configuration name="pytest in test_orange_hrm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_pytestdemo2_py - 2019.05.27 at 16h 43m 11s.xml">
+      <configuration name="pytest in test_pytestdemo2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_orange_hrm_py - 2019.05.27 at 16h 44m 55s.xml">
+      <configuration name="pytest in test_orange_hrm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_OrangeHRM_py - 2019.05.27 at 16h 47m 54s.xml">
+      <configuration name="pytest in test_OrangeHRM.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_orange_hrm_py - 2019.05.27 at 16h 49m 24s.xml">
+      <configuration name="pytest in test_orange_hrm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_orange_hrm_py - 2019.05.27 at 16h 50m 07s.xml">
+      <configuration name="pytest in test_orange_hrm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_orange_hrm_py - 2019.05.27 at 16h 51m 10s.xml">
+      <configuration name="pytest in test_orange_hrm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_orange_hrm_py - 2019.05.27 at 16h 52m 27s.xml">
+      <configuration name="pytest in test_orange_hrm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_orange_hrm_py - 2019.05.29 at 08h 52m 16s.xml">
+      <configuration name="pytest in test_orange_hrm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_orange_hrm_py - 2019.05.29 at 09h 01m 37s.xml">
+      <configuration name="pytest in test_orange_hrm.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -187,7 +274,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32993197" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -196,31 +283,32 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_demo.py">
+    <entry file="file://$PROJECT_DIR$/test_pytestdemo3.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/test_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_pytestdemo1.py">
+    <entry file="file://$PROJECT_DIR$/testcases/test_pytestdemo1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="25" />
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_pytestdemo3.py">
+    <entry file="file://$PROJECT_DIR$/testcases/test_pytestdemo2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_pytestdemo2.py">
+    <entry file="file://$PROJECT_DIR$/Package1/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
+        <state relative-caret-position="150">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -231,10 +319,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Package1/test_login.py">
+    <entry file="file://$PROJECT_DIR$/testcases/test_OrangeHRM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        <state relative-caret-position="500">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_orange_hrm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
